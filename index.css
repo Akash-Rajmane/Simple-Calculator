@@ -50,3 +50,7 @@ input{
 #clr, #delete{
     color: #ec1111;
 }
+
+.btn-container > *:hover{
+    background-color: #cccbcb;
+}
